@@ -107,9 +107,9 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](<a href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=sudip-bht&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>)
+</a>
   
 </div>
 

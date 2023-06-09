@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Flutter, Dart,Nodejs, MongoDB**
+- 🔭 I’m currently working on **Flutter, Dart,Python, MongoDB,TS**
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **Mobile App Development using microService Architecture**
 
 - 💬 Ask me about ***Flutter, Dart, C++, Nodejs, MongoDB**
 

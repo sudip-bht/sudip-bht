@@ -47,7 +47,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sudip-bht&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-bht&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=sudip-bht&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com?user=sudip-bht&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Wed&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)" /> 
 </td>
 
 <td width="50%" align="center">

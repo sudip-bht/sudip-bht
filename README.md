@@ -47,7 +47,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sudip-bht&theme=dark&show_icons=true&count_private=true" />
   <br></br>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudip-bht&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Wed&card_width=496&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a> 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudip-bht" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
